@@ -6,7 +6,7 @@
 # 3  6  9 12 15
 # 4  8 12 16 20
 # 5 10 15 20 25
-
+http://18.132.73.146:8080/github-webhook/
 import math
 
 def multiplication(n):
@@ -18,5 +18,5 @@ def multiplication(n):
         print()
 
 # Test with n = 10
-multiplication(10)
+multiplication(20)
 
