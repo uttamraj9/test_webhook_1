@@ -18,5 +18,5 @@ def multiplication(n):
         print()
 
 # Test with n = 10
-multiplication(20)
+multiplication(15)
 
